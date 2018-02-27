@@ -1,5 +1,5 @@
 # CodinGame Answers
-Here is the answers for CodinGame Puzzles (WIP)
+Here is the answers for CodinGame Puzzles in PHP (WIP)
 
 # Puzzles
 
